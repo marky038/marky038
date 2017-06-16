@@ -1,0 +1,24 @@
+p {
+	font-family: "Times New Roman";
+	font-weight: bold;
+	font-size: 18px;
+	
+}
+body {
+  background-image: url("tech foundry.jpg");
+  background-repeat: repeat-x;
+   background-color: lightblue;
+}
+
+  hr {
+  border: 30;
+  width: 43%;
+  height: 5px;
+  background-color: black;
+  margin: 0 1px;
+}
+a {font-size: 20px}
+
+h1.name{
+	color: #ff0000;
+}
